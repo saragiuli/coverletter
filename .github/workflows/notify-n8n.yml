@@ -30,4 +30,4 @@ jobs:
                  \"branch\": \"${{ github.ref_name }}\", \
                  \"commit\": \"${{ github.event.workflow_run.head_sha }}\", \
                  \"message\": \"${{ steps.get_message.outputs.message }}\"}" \
-            https://n8n.labyrainth.com/webhook/fc896fbb-4a70-48d2-a416-564a3eeeae91
+            https://n8n.labyrainth.com/webhook/4607c09e-3e35-4d79-b667-b2f229db895b
